@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+grace, amazing grace, how sweet the sound!
